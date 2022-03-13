@@ -1,0 +1,22 @@
+{
+  "name": "latency_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "latency_check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtengel/latency_check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shtengel/latency_check/issues"
+  },
+  "homepage": "https://github.com/shtengel/latency_check#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
